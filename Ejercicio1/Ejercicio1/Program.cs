@@ -23,6 +23,12 @@ namespace Ejercicio1
 
             Console.WriteLine("El sueldo total es: " + sueldo);
             Console.ReadKey();
+            Console.WriteLine("El sueldo total es: " + sueldo);
+            Console.ReadKey();
+            Console.WriteLine("El sueldo total es: " + sueldo);
+            Console.ReadKey();
+            Console.WriteLine("El sueldo total es: " + sueldo);
+            Console.ReadKey();
         }
     }
 }
